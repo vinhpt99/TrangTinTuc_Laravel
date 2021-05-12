@@ -1,6 +1,2 @@
-<?php
-echo "Thử tạo cái nhánh xem lào";
-
-
-
-?>
+<?php test master ?>
+<?php test master ?>
